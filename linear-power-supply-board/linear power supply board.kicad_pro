@@ -505,7 +505,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "101a power supply pcb.kicad_pro",
+    "filename": "linear power supply board.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -660,7 +660,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "101a power supply pcb.kicad_sch",
+        "filename": "linear power supply board.kicad_sch",
         "name": "Root",
         "uuid": "87a1adf9-6e5c-43ce-859d-eca78e89e0f3"
       }

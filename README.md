@@ -4,4 +4,5 @@ In my circuits class, we built a linear power supply from discrete components on
 
 ## Contents
 
-- `101a-power-supply-pcb/` — KiCad project (schematic + PCB layout)
+- `linear-power-supply-board/` — KiCad project (schematic + PCB layout)
+  - `gerbers/` — fabrication outputs (Gerbers + drill files)

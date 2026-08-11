@@ -180,7 +180,7 @@
 		(property ki_fp_filters "D*DO?201AD*")
 		(path "/ae93cbc0-80da-48dd-9910-18ecb960cea3")
 		(sheetname "/")
-		(sheetfile "101a power supply pcb.kicad_sch")
+		(sheetfile "linear power supply board.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -462,7 +462,7 @@
 		(property ki_fp_filters "D*DO?201AD*")
 		(path "/3390b478-8c01-4a46-9aba-1e548c9ff80e")
 		(sheetname "/")
-		(sheetfile "101a power supply pcb.kicad_sch")
+		(sheetfile "linear power supply board.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -718,7 +718,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/12ebebe7-217a-4b07-a153-97f1a8909db8")
 		(sheetname "/")
-		(sheetfile "101a power supply pcb.kicad_sch")
+		(sheetfile "linear power supply board.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3232,7 +3232,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/bf838dff-038b-4668-ba16-2efd1c674696")
 		(sheetname "/")
-		(sheetfile "101a power supply pcb.kicad_sch")
+		(sheetfile "linear power supply board.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3605,7 +3605,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/8a23ee97-1afc-41f7-be2f-f38d049e90da")
 		(sheetname "/")
-		(sheetfile "101a power supply pcb.kicad_sch")
+		(sheetfile "linear power supply board.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3896,7 +3896,7 @@
 		(property ki_fp_filters "D*DO?201AD*")
 		(path "/fc6766c7-cc2f-4dc5-9f25-8d310d82c830")
 		(sheetname "/")
-		(sheetfile "101a power supply pcb.kicad_sch")
+		(sheetfile "linear power supply board.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4152,7 +4152,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/3f2ae06a-6f0b-40ab-a834-4447d910e7f9")
 		(sheetname "/")
-		(sheetfile "101a power supply pcb.kicad_sch")
+		(sheetfile "linear power supply board.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4437,7 +4437,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1b3c9a5e-8ff1-4528-abaa-9acfa7283580")
 		(sheetname "/")
-		(sheetfile "101a power supply pcb.kicad_sch")
+		(sheetfile "linear power supply board.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4736,7 +4736,7 @@
 		)
 		(path "/6e698b7d-c9fa-4ca4-9289-93b7cf860938")
 		(sheetname "/")
-		(sheetfile "101a power supply pcb.kicad_sch")
+		(sheetfile "linear power supply board.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4991,7 +4991,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/1743706a-e877-4b5e-8060-537e31284e34")
 		(sheetname "/")
-		(sheetfile "101a power supply pcb.kicad_sch")
+		(sheetfile "linear power supply board.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7111,7 +7111,7 @@
 		(property ki_fp_filters "D*DO?201AD*")
 		(path "/0d2c393a-f027-4363-9db4-bca4a4eaac60")
 		(sheetname "/")
-		(sheetfile "101a power supply pcb.kicad_sch")
+		(sheetfile "linear power supply board.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7437,7 +7437,7 @@
 		(property ki_fp_filters "BarrelJack*")
 		(path "/6ea54c12-eb57-40a1-b046-dbd53a3af466")
 		(sheetname "/")
-		(sheetfile "101a power supply pcb.kicad_sch")
+		(sheetfile "linear power supply board.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8046,7 +8046,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/56da10d9-7d8a-486d-9d2e-ef00ae94865d")
 		(sheetname "/")
-		(sheetfile "101a power supply pcb.kicad_sch")
+		(sheetfile "linear power supply board.kicad_sch")
 		(units
 			(unit
 				(name "A")
