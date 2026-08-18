@@ -1,6 +1,6 @@
 # dc-power-supply
 
-In my circuits class, we built a linear power supply from discrete components on a devboard. I converted our design into a PCB, optimizing for high power demand from a load connected to the output. 
+A linear AC to DC converter based on a power supply built in my Circuits I class. I converted our design into a PCB, optimizing for high current demand. 
 
 ## Contents
 
